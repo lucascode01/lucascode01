@@ -1,7 +1,7 @@
 Olá, bem-vindo ao meu perfil.
-Email:
-Whatsapp:
-Website:
+Email: lucascode01@gmail.com
+Whatsapp: https://wa.me/message/CTUE7YUIGW4JN1
+Website: https://softwareengineerlcs.my.canva.site
 
 ###
 
