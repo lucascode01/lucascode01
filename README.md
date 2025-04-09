@@ -2,12 +2,6 @@
   <b>⚜️ Bem-vindo ao Meu Perfil! ⚜️</b>
 </h3>
 
-<div style="font-size: 16px;">
-    <p><a href="mailto:lucascode01@gmail.com">📥 lucascode01@gmail.com</a></p>
-    <p><a href="https://wa.me/message/CTUE7YUIGW4JN1" target="_blank">📩 Envie uma mensagem</a></p>
-    <p><a href="http://lucassantosdev.framer.website" target="_blank">🌅 Visite Meu Site</a></p>
-</div>
-
 <h3 align="center">
   <b>🔥 Estatísticas do GitHub 🔥</b>
 </h3>
@@ -23,3 +17,8 @@
   <img src="https://profile-counter.glitch.me/lucascode01/count.svg?" alt="Contador de Visitas ao Perfil" />
 </div>
 
+<div style="font-size: 16px;">
+    <p><a href="mailto:lucascode01@gmail.com">📥 lucascode01@gmail.com</a></p>
+    <p><a href="https://wa.me/message/CTUE7YUIGW4JN1" target="_blank">📩 Envie uma mensagem</a></p>
+    <p><a href="http://lucassantosdev.framer.website" target="_blank">🌅 Visite Meu Site</a></p>
+</div>
