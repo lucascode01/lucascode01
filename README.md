@@ -1,4 +1,4 @@
-<b>Olá, bem-vindo ao meu perfil.</b>  
+<h3><b>Olá, bem-vindo ao meu perfil.</b></h3>
 Email: lucascode01@gmail.com  
 Whatsapp: https://wa.me/message/CTUE7YUIGW4JN1  
 Website: http://lucassantosdev.framer.website  
