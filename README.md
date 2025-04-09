@@ -1,4 +1,4 @@
-<h3 style="text-align:center; font-weight:bold; color: #1a73e8;">⚜️ Bem-vindo ao Meu Perfil Profissional! ⚜️</h3>
+<h3 style="text-align:center; font-weight:bold; color: #1a73e8;">⚜️ Bem-vindo ao Meu Perfil! ⚜️</h3>
 <div style="text-align:center; font-size: 16px;">
     <p>Email: <a href="mailto:lucascode01@gmail.com">lucascode01@gmail.com</a></p>
     <p>WhatsApp: <a href="https://wa.me/message/CTUE7YUIGW4JN1" target="_blank">Envie uma mensagem</a></p>
