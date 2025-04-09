@@ -1,6 +1,6 @@
 <h3><b>Olá, bem-vindo ao meu perfil.</b></h3>
-<h3>Email:</h3> lucascode01@gmail.com  
-<h3>Whatsapp:</h3> https://wa.me/message/CTUE7YUIGW4JN1  
+<h3>Email:lucascode01@gmail.com</h3>
+<h3>Whatsapp: https://wa.me/message/CTUE7YUIGW4JN1</h3>
 <h3>Website: http://lucassantosdev.framer.website </h3>  
 
 ###
