@@ -2,9 +2,6 @@
   <b>⚜️ Bem-vindo ao Meu Perfil! ⚜️</b>
 </h3>
 
-<h3 align="center">
-  <b>🔥 Estatísticas do GitHub 🔥</b>
-</h3>
 
 <br clear="both">
 
